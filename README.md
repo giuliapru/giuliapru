@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giuliapru, nice to see you here!
 - 👀 I’m interested in astrophysics
 - 🌱 I’m currently attending my master at Milano-Bicocca University
-- 💞️ I’m looking to collaborate with a passionate team on high redshift data or cosmological simulations
+<!--- - 💞️ I’m looking to collaborate with a passionate team on high redshift data or cosmological simulations--->
 - 📫 You can reach me at this e-mail address: g.pruto@campus.unimib.it
 
 <!---
